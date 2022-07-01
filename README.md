@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello! 👋
 
-<!--
-**irwin-chen/irwin-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for checking out my page!🙌
 
-Here are some ideas to get you started:
+I'm Irwin, a web developer located in the Los Angeles area looking to jumpstart his career in tech. Prior to web development, I graduated from the University of California, Santa Cruz with a degree in Biochemistry 👨‍🔬.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I have experience with React, JavaScript, Nodes.js, and Express, but I am open to learning more!
+
+When I'm not coding, you can find me either rock climbing 🧗‍♂️, listening to music at live concerts 🎶(once covid permits...), and playing video games 🎮.
+
+## Skills and Tools:
+
+- Stack: React, JavaScript, CSS3, HTML5, Node.js, Express, Tailwind
+- Tools: Git, GitHub, PostgreSQL, NPM, Webpack, Figma
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irwin-chen)](https://github.com/anuraghazra/github-readme-stats)
