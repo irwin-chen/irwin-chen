@@ -13,7 +13,7 @@ Currently I have experience with React, JavaScript, Nodes.js, and Express, but I
 
 When I'm not coding, you can find me either rock climbing 🧗‍♂️, listening to music at live concerts 🎶(once covid permits...), and playing video games 🎮.
 
-👇👇You can reach out below if you have any questions about me or just want to talk!
+👇👇Feel free to reach out with the links below if you have any questions or just want to talk!
 
 - [LinkedIn](https://github.com/irwin-chen)
-- Email: irwin.t.chen@gmail.com
+- ✉️ irwin.t.chen@gmail.com
