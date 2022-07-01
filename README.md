@@ -1,3 +1,8 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irwin-chen)](https://github.com/anuraghazra/github-readme-stats)
+
+- Stack: React, JavaScript, CSS3, HTML5, Node.js, Express, Tailwind
+- Tools: Git, GitHub, PostgreSQL, NPM, Webpack, Figma
+
 ## Hello! 👋
 
 Thanks for checking out my page!🙌
@@ -8,10 +13,7 @@ Currently I have experience with React, JavaScript, Nodes.js, and Express, but I
 
 When I'm not coding, you can find me either rock climbing 🧗‍♂️, listening to music at live concerts 🎶(once covid permits...), and playing video games 🎮.
 
-## Skills and Tools:
+👇👇You can reach out below if you have any questions about me or just want to talk!
 
-- Stack: React, JavaScript, CSS3, HTML5, Node.js, Express, Tailwind
-- Tools: Git, GitHub, PostgreSQL, NPM, Webpack, Figma
-
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irwin-chen)](https://github.com/anuraghazra/github-readme-stats)
+- [LinkedIn](https://github.com/irwin-chen)
+- Email: irwin.t.chen@gmail.com
